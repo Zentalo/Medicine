@@ -1,2 +1,4 @@
 # Medicine
-### Shanghai University/Selected Course/Math Modeling
+### Shanghai University
+### Selected Course
+### Math Modeling
